@@ -29,6 +29,32 @@ void APlayer1Test::Tick(float DeltaTime)
 void APlayer1Test::SetupPlayerInputComponent(UInputComponent* PlayerInputComponent)
 {
 	Super::SetupPlayerInputComponent(PlayerInputComponent);
+	InputComponent->BindAxis("MoveForward", this, &APlayer1Test::MoveForward);
+	InputComponent->BindAxis("MoveRight", this, &APlayer1Test::SideStep);
+	InputComponent->BindAction("LeftTrigger", EInputEvent::IE_Pressed, this, &APlayer1Test::Grab);
+
 
 }
 
+void APlayer1Test::MoveForward(float DeltaTime)
+{
+
+	if (DeltaTime != 0)
+	{
+		AddMovementInput(GetActorForwardVector(), DeltaTime);
+		UE_LOG(LogTemp, Warning, TEXT("forward activated"));
+
+	}
+}
+
+void APlayer1Test::SideStep(float DeltaTime)
+{
+	if (DeltaTime != 0)
+		AddMovementInput(GetActorRightVector(), DeltaTime);
+}
+
+void APlayer1Test::Grab()
+{
+	UE_LOG(LogTemp, Warning, TEXT("Grabbed"));
+
+}

@@ -26,6 +26,14 @@ public:
 	// Called to bind functionality to input
 	virtual void SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent) override;
 
-	
-	
+	//PlayerMovement
+	void MoveForward(float DeltaTime);
+	void SideStep(float DeltaTime);
+
+	//PlayerInteraction
+	void Grab();
+
+
+	UPROPERTY(EditAnywhere)
+	int32 CountdownTime;
 };

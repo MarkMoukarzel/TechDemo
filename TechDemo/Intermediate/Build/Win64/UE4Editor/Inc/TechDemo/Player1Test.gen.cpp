@@ -41,6 +41,16 @@ void EmptyLinkFunctionForGeneratedCodePlayer1Test() {}
 				{ "ModuleRelativePath", "Player1Test.h" },
 			};
 #endif
+#if WITH_METADATA
+			static const UE4CodeGen_Private::FMetaDataPairParam NewProp_CountdownTime_MetaData[] = {
+				{ "Category", "Player1Test" },
+				{ "ModuleRelativePath", "Player1Test.h" },
+			};
+#endif
+			static const UE4CodeGen_Private::FIntPropertyParams NewProp_CountdownTime = { UE4CodeGen_Private::EPropertyClass::Int, "CountdownTime", RF_Public|RF_Transient|RF_MarkAsNative, 0x0010000000000001, 1, nullptr, STRUCT_OFFSET(APlayer1Test, CountdownTime), METADATA_PARAMS(NewProp_CountdownTime_MetaData, ARRAY_COUNT(NewProp_CountdownTime_MetaData)) };
+			static const UE4CodeGen_Private::FPropertyParamsBase* const PropPointers[] = {
+				(const UE4CodeGen_Private::FPropertyParamsBase*)&NewProp_CountdownTime,
+			};
 			static const FCppClassTypeInfoStatic StaticCppClassTypeInfo = {
 				TCppClassTypeTraits<APlayer1Test>::IsAbstract,
 			};
@@ -49,7 +59,7 @@ void EmptyLinkFunctionForGeneratedCodePlayer1Test() {}
 				DependentSingletons, ARRAY_COUNT(DependentSingletons),
 				0x00900080u,
 				nullptr, 0,
-				nullptr, 0,
+				PropPointers, ARRAY_COUNT(PropPointers),
 				nullptr,
 				&StaticCppClassTypeInfo,
 				nullptr, 0,
@@ -59,7 +69,7 @@ void EmptyLinkFunctionForGeneratedCodePlayer1Test() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(APlayer1Test, 2246930510);
+	IMPLEMENT_CLASS(APlayer1Test, 1690645177);
 	static FCompiledInDefer Z_CompiledInDefer_UClass_APlayer1Test(Z_Construct_UClass_APlayer1Test, &APlayer1Test::StaticClass, TEXT("/Script/TechDemo"), TEXT("APlayer1Test"), false, nullptr, nullptr, nullptr);
 	DEFINE_VTABLE_PTR_HELPER_CTOR(APlayer1Test);
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

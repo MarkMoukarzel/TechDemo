@@ -509,3 +509,18 @@ LogInit: Object subsystem initialized
 [2018.01.22-09.09.08:059][438]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
 [2018.01.22-09.09.08:059][438]SourceControl:  create mode 100644 TechDemo/Content/Materials/TestMat_01.uasset
 [2018.01.22-09.09.08:063][438]SourceControl: Commited [master 25cc2b2] Added a useless material.
+[2018.01.22-09.11.00:568][489]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.22-09.11.00:576][489]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.22-09.11.00:576][489]PIE: New page: PIE session: Untitled_1 (Jan 22, 2018, 1:11:00 PM)
+[2018.01.22-09.11.00:576][489]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2018.01.22-09.11.00:581][489]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004870s)
+[2018.01.22-09.11.00:582][489]LogAIModule: Creating AISystem for world Untitled_1
+[2018.01.22-09.11.00:582][489]LogPlayLevel: PIE: World Init took: (0.000653s)
+[2018.01.22-09.11.00:582][489]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.005754s)
+[2018.01.22-09.11.00:597][489]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.01.22-09.11.00:627][489]LogInit: FAudioDevice initialized.
+[2018.01.22-09.11.00:670][489]LogLoad: Game class is 'GameModeBase'
+[2018.01.22-09.11.00:672][489]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2018.01.22-11.11.00
+[2018.01.22-09.11.00:672][489]LogWorld: Bringing up level for play took: 0.000517
+[2018.01.22-09.11.00:703][489]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 11 classes and 0 folders.
+[2018.01.22-09.11.00:704][489]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.314

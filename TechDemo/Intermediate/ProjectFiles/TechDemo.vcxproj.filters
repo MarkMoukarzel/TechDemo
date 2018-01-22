@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\TechDemo.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{949D0AA6-C307-4891-9E66-29D81DD9A916}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\TechDemo.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\TechDemoEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{C676E110-DFAD-4F5B-8A17-70E23825C9E1}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\TechDemo">
+			<UniqueIdentifier>{E2B817D9-106B-416D-BF68-7BC3281ACF00}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\TechDemo\TechDemo.Build.cs">
+			<Filter>Source\TechDemo</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\TechDemo\TechDemo.cpp">
+			<Filter>Source\TechDemo</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\TechDemo\TechDemo.h">
+			<Filter>Source\TechDemo</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\TechDemo\TechDemoGameModeBase.cpp">
+			<Filter>Source\TechDemo</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\TechDemo\TechDemoGameModeBase.h">
+			<Filter>Source\TechDemo</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>

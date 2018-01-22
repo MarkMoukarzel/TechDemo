@@ -19,8 +19,8 @@ void EmptyLinkFunctionForGeneratedCodeTechDemo_init() {}
 			static const UE4CodeGen_Private::FPackageParams PackageParams = {
 				"/Script/TechDemo",
 				PKG_CompiledIn | 0x00000000,
-				0x657F882C,
-				0x2BEED086,
+				0x68FCADEA,
+				0x7BFDEB01,
 				nullptr, 0,
 				METADATA_PARAMS(nullptr, 0)
 			};

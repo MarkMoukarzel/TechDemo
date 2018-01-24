@@ -1,0 +1,20 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-TechDemo-2198.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\WIN 10\Desktop\TechDemo\TechDemo\Intermediate\Build\Win64\UE4Editor\Development\TechDemo\MyPlayerController.cpp.obj"
+"C:\Users\WIN 10\Desktop\TechDemo\TechDemo\Intermediate\Build\Win64\UE4Editor\Development\TechDemo\Player1Test.cpp.obj"
+"C:\Users\WIN 10\Desktop\TechDemo\TechDemo\Intermediate\Build\Win64\UE4Editor\Development\TechDemo\TechDemo.cpp.obj"
+"C:\Users\WIN 10\Desktop\TechDemo\TechDemo\Intermediate\Build\Win64\UE4Editor\Development\TechDemo\TechDemoGameModeBase.cpp.obj"
+"C:\Users\WIN 10\Desktop\TechDemo\TechDemo\Intermediate\Build\Win64\UE4Editor\Development\TechDemo\MyPlayerController.gen.cpp.obj"
+"C:\Users\WIN 10\Desktop\TechDemo\TechDemo\Intermediate\Build\Win64\UE4Editor\Development\TechDemo\Player1Test.gen.cpp.obj"
+"C:\Users\WIN 10\Desktop\TechDemo\TechDemo\Intermediate\Build\Win64\UE4Editor\Development\TechDemo\TechDemo.init.gen.cpp.obj"
+"C:\Users\WIN 10\Desktop\TechDemo\TechDemo\Intermediate\Build\Win64\UE4Editor\Development\TechDemo\TechDemoGameModeBase.gen.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\TechDemo\PCLaunch.rc.res"
+"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"C:\Users\WIN 10\Desktop\TechDemo\TechDemo\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-TechDemo-2198.lib"

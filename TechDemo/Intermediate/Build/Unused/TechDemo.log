@@ -1,0 +1,24 @@
+﻿  Performing full C++ include scan (building a new target)
+  Using 'git status' to determine working set for adaptive non-unity build.
+  Creating makefile for TechDemo (no existing makefile)
+  Parsing headers for TechDemo
+    Running UnrealHeaderTool "C:\Users\WIN 10\Desktop\TechDemo\TechDemo\TechDemo.uproject" "C:\Users\WIN 10\Desktop\TechDemo\TechDemo\Intermediate\Build\Win64\TechDemo\Shipping\TechDemo.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for TechDemo in 4.8922349 seconds
+  Performing 13 actions (9 in parallel)
+  [3/13] Resource PCLaunch.rc
+  PCH.UELinkerFixups.cpp
+  SharedPCH.Engine.cpp
+  UELinkerFixups.cpp
+  MyPlayerController.cpp
+  Player1Test.cpp
+  Player1Test.gen.cpp
+  TechDemo.init.gen.cpp
+  TechDemoGameModeBase.cpp
+  TechDemoGameModeBase.gen.cpp
+  MyPlayerController.gen.cpp
+  TechDemo.cpp
+  [13/13] Link TechDemo-Win64-Shipping.exe
+     Creating library C:\Users\WIN 10\Desktop\TechDemo\TechDemo\Binaries\Win64\TechDemo-Win64-Shipping.lib and object C:\Users\WIN 10\Desktop\TechDemo\TechDemo\Binaries\Win64\TechDemo-Win64-Shipping.exp
+  Deploying TechDemo Win64 Shipping...
+  Prepping UE4 for deployment to Win64
+  Total build time: 41.37 seconds (Local executor: 33.53 seconds)

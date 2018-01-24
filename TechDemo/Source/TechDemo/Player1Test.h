@@ -6,6 +6,9 @@
 #include "GameFramework/Character.h"
 #include "Player1Test.generated.h"
 
+//class UMotionControllerComponent;
+class UBoxComponent;
+
 UCLASS()
 class TECHDEMO_API APlayer1Test : public ACharacter
 {
@@ -33,7 +36,14 @@ public:
 	//PlayerInteraction
 	void Grab();
 
+	UFUNCTION(BlueprintCallable)
+	FString Test(UBoxComponent* a);
+
+	UPROPERTY(EditAnywhere, Category = "Spawn")
+	TSubclassOf<USceneComponent> PawnClass;
+
+
 
 	UPROPERTY(EditAnywhere)
-	int32 CountdownTime;
+	int test123;
 };

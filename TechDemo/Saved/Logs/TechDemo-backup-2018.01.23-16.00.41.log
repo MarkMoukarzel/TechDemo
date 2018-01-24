@@ -1,0 +1,1732 @@
+﻿Log file open, 01/23/18 15:13:26
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: TechDemo
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-178549133) SRandInit(-178549133).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 20 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.221237
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogModuleManager: Display: Found up-to-date module file ../../../../../../Users/WIN 10/Desktop/TechDemo/TechDemo/Binaries/Win64/UE4Editor-TechDemo-2135.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.01.23-13.13.28:101][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.23-13.13.28:101][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.01.23-13.13.28:112][  0]LogInit: Computer: DESKTOP-ETD6PAL
+[2018.01.23-13.13.28:112][  0]LogInit: User: WIN10
+[2018.01.23-13.13.28:112][  0]LogInit: CPU Page size=4096, Cores=6
+[2018.01.23-13.13.28:112][  0]LogInit: High frequency timer resolution =3.609372 MHz
+[2018.01.23-13.13.28:112][  0]LogMemory: Memory total: Physical=32.0GB (32GB approx)
+[2018.01.23-13.13.28:112][  0]LogMemory: Platform Memory Stats for Windows
+[2018.01.23-13.13.28:112][  0]LogMemory: Process Physical Memory: 272.98 MB used, 272.98 MB peak
+[2018.01.23-13.13.28:112][  0]LogMemory: Process Virtual Memory: 270.38 MB used, 270.38 MB peak
+[2018.01.23-13.13.28:112][  0]LogMemory: Physical Memory: 5896.77 MB used,  26826.13 MB free, 32722.90 MB total
+[2018.01.23-13.13.28:112][  0]LogMemory: Virtual Memory: 649.68 MB used,  26826.13 MB free, 134217728.00 MB total
+[2018.01.23-13.13.28:265][  0]LogInit: Using OS detected language (en-GB).
+[2018.01.23-13.13.28:265][  0]LogInit: Using OS detected locale (en-US).
+[2018.01.23-13.13.28:267][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2018.01.23-13.13.28:634][  0]LogInit: Setting process to per monitor DPI aware
+[2018.01.23-13.13.28:835][  0]LogD3D11RHI: D3D11 adapters:
+[2018.01.23-13.13.28:876][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080 Ti' (Feature Level 11_0)
+[2018.01.23-13.13.28:876][  0]LogD3D11RHI:       11138/0/16361 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.01.23-13.13.28:877][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.01.23-13.13.28:877][  0]LogD3D11RHI:       0/0/16361 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.01.23-13.13.28:877][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.01.23-13.13.28:880][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.01.23-13.13.28:880][  0]LogD3D11RHI:     GPU DeviceId: 0x1b06 (for the marketing name, search the web for "GPU Device Id")
+[2018.01.23-13.13.28:880][  0]LogWindows: EnumDisplayDevices:
+[2018.01.23-13.13.28:880][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080 Ti' (P:1 D:1)
+[2018.01.23-13.13.28:880][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:0)
+[2018.01.23-13.13.28:880][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:0)
+[2018.01.23-13.13.28:881][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:0)
+[2018.01.23-13.13.28:881][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.01.23-13.13.28:881][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080 Ti
+[2018.01.23-13.13.28:881][  0]LogD3D11RHI:   Driver Version: 388.13 (internal:23.21.13.8813, unified:388.13)
+[2018.01.23-13.13.28:881][  0]LogD3D11RHI:      Driver Date: 10-27-2017
+[2018.01.23-13.13.28:881][  0]LogRHI: Texture pool is 7797 MB (70% of 11138 MB)
+[2018.01.23-13.13.28:906][  0]LogD3D11RHI: Async texture creation enabled
+[2018.01.23-13.13.28:917][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.01.23-13.13.28:967][  0]LogShaderCompilers: Guid format shader working directory is -10 characters bigger than the processId version (../../../../../../Users/WIN 10/Desktop/TechDemo/TechDemo/Intermediate/Shaders/WorkingDirectory/12220/).
+[2018.01.23-13.13.28:967][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/WIN 10/AppData/Local/Temp/UnrealShaderWorkingDir/1C09219C4E0E7CA81620119A92091602/'.
+[2018.01.23-13.13.28:967][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.01.23-13.13.29:799][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.01.23-13.13.29:847][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.01.23-13.13.29:903][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.01.23-13.13.29:958][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.01.23-13.13.30:005][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.01.23-13.13.30:055][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.01.23-13.13.30:106][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.01.23-13.13.30:158][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.01.23-13.13.30:199][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.01.23-13.13.30:246][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.01.23-13.13.30:296][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.01.23-13.13.30:348][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.01.23-13.13.30:401][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.01.23-13.13.30:451][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.01.23-13.13.30:549][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.01.23-13.13.30:549][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.01.23-13.13.30:598][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.01.23-13.13.30:636][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.01.23-13.13.30:718][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.01.23-13.13.30:749][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.01.23-13.13.30:799][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.01.23-13.13.30:846][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.01.23-13.13.30:892][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.01.23-13.13.30:940][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.01.23-13.13.30:940][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.01.23-13.13.31:378][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.01.23-13.13.31:439][  0]LogDerivedDataCache: Loaded boot cache 0.06s 78MB C:/Users/WIN 10/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.23-13.13.31:439][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/WIN 10/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.01.23-13.13.31:439][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/WIN 10/Desktop/TechDemo/TechDemo/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.01.23-13.13.31:439][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.01.23-13.13.31:439][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/WIN 10/Desktop/TechDemo/TechDemo/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.01.23-13.13.31:439][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.01.23-13.13.31:459][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.01.23-13.13.31:470][  0]LogDerivedDataCache: Using Local data cache path C:/Users/WIN 10/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.01.23-13.13.31:480][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.01.23-13.13.31:480][  0]LogSlate: Using Freetype 2.6.0
+[2018.01.23-13.13.31:480][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.23-13.13.31:480][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.23-13.13.31:812][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.23-13.13.32:125][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.01.23-13.13.32:165][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.01.23-13.13.32:165][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.01.23-13.13.32:165][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.01.23-13.13.32:165][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.01.23-13.13.32:165][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.01.23-13.13.32:189][  0]LogNetVersion: TechDemo , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3811988934)
+[2018.01.23-13.13.32:342][  0]LogAssetRegistry: FAssetRegistry took 0.0258 seconds to start up
+[2018.01.23-13.13.32:803][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.077263 seconds
+[2018.01.23-13.13.32:808][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.01.23-13.13.32:808][  0]LogUObjectAllocator: 7363696 out of 0 bytes used by permanent object pool.
+[2018.01.23-13.13.32:808][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.01.23-13.13.32:857][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.01.23-13.13.35:467][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.01.23-13.13.35:508][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.01.23-13.13.36:310][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.01.23-13.13.36:786][  0]SourceControl: Source control is disabled
+[2018.01.23-13.13.36:786][  0]SourceControl: Source control is disabled
+[2018.01.23-13.13.36:847][  0]SourceControl: Source control is disabled
+[2018.01.23-13.13.36:902][  0]SourceControl: Source control is disabled
+[2018.01.23-13.13.37:774][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.01.23-13.13.38:067][  0]LogOcInput: OculusInput pre-init called
+[2018.01.23-13.13.38:332][  0]LogEngine: Initializing Engine...
+[2018.01.23-13.13.38:877][  0]LogHMD: SteamVR initialized.  Driver: lighthouse  Display: LHR-7B5B1253
+[2018.01.23-13.13.39:055][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.01.23-13.13.39:055][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.01.23-13.13.39:174][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.01.23-13.13.39:186][  0]LogInit: XAudio2 using 'S27D590-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.23-13.13.39:195][  0]LogInit: FAudioDevice initialized.
+[2018.01.23-13.13.39:266][  0]LogDerivedDataCache: Saved boot cache 0.07s 78MB C:/Users/WIN 10/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.23-13.13.39:277][  0]LogInit: Texture streaming: Enabled
+[2018.01.23-13.13.39:370][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.01.23-13.13.39:493][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.01.23-13.13.39:525][  0]LogInit: Transaction tracking system initialized
+[2018.01.23-13.13.39:826][  0]BlueprintLog: New page: Editor Load
+[2018.01.23-13.13.40:761][  0]LocalizationService: Localization service is disabled
+[2018.01.23-13.13.41:532][  0]LogConsoleResponse: Display: 
+[2018.01.23-13.13.41:689][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.01.23-13.13.41:689][  0]LogCook: Display: Mobile HDR setting 1
+[2018.01.23-13.13.41:690][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.01.23-13.13.42:464][  0]LogFileCache: Scanning file cache for directory 'C:/Users/WIN 10/Desktop/TechDemo/TechDemo/Content/' took 0.01s
+[2018.01.23-13.13.42:851][  0]SourceControl: Source control is disabled
+[2018.01.23-13.13.42:851][  0]Cmd: MAP LOAD FILE="../../../../../../Users/WIN 10/Desktop/TechDemo/TechDemo/Content/NewMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.23-13.13.42:852][  0]LightingResults: New page: Lighting Build
+[2018.01.23-13.13.42:901][  0]MapCheck: New page: Map Check
+[2018.01.23-13.13.42:901][  0]LightingResults: New page: Lighting Build
+[2018.01.23-13.13.43:116][  0]LogAIModule: Creating AISystem for world NewMap
+[2018.01.23-13.13.43:121][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.23-13.13.43:134][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.23-13.13.43:173][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 39.903ms to complete.
+[2018.01.23-13.13.43:173][  0]LogFileHelpers: Loading map 'NewMap' took 0.322
+[2018.01.23-13.13.43:305][  0]LogCollectionManager: Loaded 0 collections in 0.001084 seconds
+[2018.01.23-13.13.43:380][  0]LogFileCache: Scanning file cache for directory 'C:/Users/WIN 10/Desktop/TechDemo/TechDemo/Saved/Collections/' took 0.01s
+[2018.01.23-13.13.43:380][  0]LogFileCache: Scanning file cache for directory 'C:/Users/WIN 10/Desktop/TechDemo/TechDemo/Content/Developers/WIN10/Collections/' took 0.01s
+[2018.01.23-13.13.43:380][  0]LogFileCache: Scanning file cache for directory 'C:/Users/WIN 10/Desktop/TechDemo/TechDemo/Content/Collections/' took 0.01s
+[2018.01.23-13.13.43:380][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.01.23-13.13.43:393][  0]LogContentBrowser: Native class hierarchy populated in 0.0131 seconds. Added 2366 classes and 521 folders.
+[2018.01.23-13.13.43:466][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2018.01.23-13.13.43:501][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0010 seconds. Added 0 classes and 0 folders.
+[2018.01.23-13.13.43:551][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0014 seconds. Added 1 classes and 2 folders.
+[2018.01.23-13.13.43:590][  0]LogSlate: Took 0.000167 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.23-13.13.43:592][  0]LogSlate: Took 0.000205 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.01.23-13.13.43:597][  0]LogSlate: Took 0.000145 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.01.23-13.13.43:682][  0]LogRenderer: Reallocating scene render targets to support 1016x576 Format 10 NumSamples 1 (Frame:1).
+[2018.01.23-13.13.43:716][  0]LogSlate: Took 0.000264 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.23-13.13.43:827][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2018.01.23-13.13.43:827][  0]LogLoad: (Engine Initialization) Total time: 18.21 seconds
+[2018.01.23-13.13.43:827][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.01.23-13.13.43:827][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.01.23-13.13.43:859][  0]LogAssetRegistry: Asset discovery search completed in 11.5399 seconds
+[2018.01.23-13.13.43:861][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.01.23-13.13.43:861][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000066 seconds (updated 0 objects)
+[2018.01.23-13.13.43:862][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.01.23-13.25.02:840][401]LogHotReload: New module detected: UE4Editor-TechDemo-3574-Win64-DebugGame.dll
+[2018.01.23-13.25.03:519][404]LogHotReload: Starting Hot-Reload from IDE
+[2018.01.23-13.25.03:523][404]LogSlate: Took 0.000141 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.23-13.25.03:619][404]LogContentBrowser: Native class hierarchy updated for 'TechDemo' in 0.0009 seconds. Added 3 classes and 2 folders.
+[2018.01.23-13.25.03:621][404]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2018.01.23-13.25.03:712][404]LogContentBrowser: Native class hierarchy populated in 0.0085 seconds. Added 2368 classes and 525 folders.
+[2018.01.23-13.25.03:715][404]Display: HotReload took  0.2s.
+[2018.01.23-13.27.29:837][496]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.01.23-13.27.29:880][497]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.TechDemo
+[2018.01.23-13.27.29:880][497]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.01.23-13.27.29:880][497]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.18
+[2018.01.23-13.27.29:880][497]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.01.23-13.27.29:880][497]LogTemp: BranchPath = DESKTOP-ETD6PAL/C/Program Files/Epic Games/UE_4.18/Engine/Binaries --- GameBranchPath = DESKTOP-ETD6PAL/C/Program Files/Epic Games/UE_4.18/Engine/Binaries
+[2018.01.23-13.27.29:881][497]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\WIN 10\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.01.23-13.28.15:813][636]LogTemp: Repeating last play command: VR Preview
+[2018.01.23-13.28.15:843][636]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.23-13.28.15:844][636]PIE: New page: PIE session: NewMap (Jan 23, 2018, 5:28:15 PM)
+[2018.01.23-13.28.15:844][636]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.01.23-13.28.15:848][636]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003609s)
+[2018.01.23-13.28.15:848][636]LogAIModule: Creating AISystem for world NewMap
+[2018.01.23-13.28.15:848][636]LogPlayLevel: PIE: World Init took: (0.000569s)
+[2018.01.23-13.28.15:848][636]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.004454s)
+[2018.01.23-13.28.15:869][636]LogInit: XAudio2 using 'S27D590-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.23-13.28.15:875][636]LogInit: FAudioDevice initialized.
+[2018.01.23-13.28.18:964][636]LogHMD: SteamVR initialized.  Driver: lighthouse  Display: LHR-7B5B1253
+[2018.01.23-13.28.19:013][636]LogLoad: Game class is 'TechDemoTest_C'
+[2018.01.23-13.28.19:014][636]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2018.01.23-15.28.19
+[2018.01.23-13.28.19:015][636]LogWorld: Bringing up level for play took: 0.000623
+[2018.01.23-13.28.19:053][636]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0008 seconds. Added 11 classes and 0 folders.
+[2018.01.23-13.28.19:053][636]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.01.23-13.28.19:053][636]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.01.23-13.28.19:053][636]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.01.23-13.28.19:055][636]LogTemp: Warning: Arrow
+[2018.01.23-13.28.19:055][636]LogTemp: Warning: CharacterMesh0
+[2018.01.23-13.28.19:055][636]LogTemp: Warning: Camera
+[2018.01.23-13.28.19:055][636]LogTemp: Warning: MC_Left
+[2018.01.23-13.28.19:055][636]LogTemp: Warning: MC_Right
+[2018.01.23-13.28.19:055][636]LogTemp: Warning: StaticMeshComponent
+[2018.01.23-13.28.19:055][636]LogTemp: Warning: DrawFrustumComponent
+[2018.01.23-13.28.19:055][636]LogTemp: Warning: SM_Left
+[2018.01.23-13.28.19:055][636]LogTemp: Warning: L_Box
+[2018.01.23-13.28.19:055][636]LogTemp: Warning: SM_Right
+[2018.01.23-13.28.19:055][636]LogTemp: Warning: R_Box
+[2018.01.23-13.28.19:055][636]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.01.23-13.28.19:058][636]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 2.994
+[2018.01.23-13.28.19:105][637]LogRenderer: Reallocating scene render targets to support 2160x1200 Format 10 NumSamples 1 (Frame:1).
+[2018.01.23-13.28.42:315][964]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.28.42:318][965]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.28.42:321][966]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.28.42:324][967]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.28.42:326][968]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.28.42:329][969]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.28.42:332][970]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.28.42:337][971]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.28.42:340][972]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.28.42:343][973]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.28.42:346][974]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.28.42:348][975]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.28.42:352][976]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.28.42:355][977]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.28.42:358][978]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.28.42:361][979]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.29.22:704][ 11]LogTemp: Repeating last play command: VR Preview
+[2018.01.23-13.29.22:718][ 11]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.23-13.29.22:719][ 11]PIE: New page: PIE session: NewMap (Jan 23, 2018, 5:29:22 PM)
+[2018.01.23-13.29.22:719][ 11]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.01.23-13.29.22:721][ 11]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002500s)
+[2018.01.23-13.29.22:722][ 11]LogAIModule: Creating AISystem for world NewMap
+[2018.01.23-13.29.22:722][ 11]LogPlayLevel: PIE: World Init took: (0.000635s)
+[2018.01.23-13.29.22:722][ 11]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.003564s)
+[2018.01.23-13.29.22:743][ 11]LogInit: XAudio2 using 'S27D590-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.23-13.29.22:752][ 11]LogInit: FAudioDevice initialized.
+[2018.01.23-13.29.22:830][ 11]LogLoad: Game class is 'TechDemoTest_C'
+[2018.01.23-13.29.22:831][ 11]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2018.01.23-15.29.22
+[2018.01.23-13.29.22:831][ 11]LogWorld: Bringing up level for play took: 0.000944
+[2018.01.23-13.29.22:832][ 11]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.01.23-13.29.22:832][ 11]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.01.23-13.29.22:832][ 11]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.01.23-13.29.25:354][ 11]LogTemp: Warning: Arrow
+[2018.01.23-13.29.25:355][ 11]LogTemp: Warning: CharacterMesh0
+[2018.01.23-13.29.25:355][ 11]LogTemp: Warning: Camera
+[2018.01.23-13.29.25:355][ 11]LogTemp: Warning: MC_Left
+[2018.01.23-13.29.25:355][ 11]LogTemp: Warning: MC_Right
+[2018.01.23-13.29.25:355][ 11]LogTemp: Warning: StaticMeshComponent
+[2018.01.23-13.29.25:355][ 11]LogTemp: Warning: DrawFrustumComponent
+[2018.01.23-13.29.25:355][ 11]LogTemp: Warning: SM_Left
+[2018.01.23-13.29.25:355][ 11]LogTemp: Warning: L_Box
+[2018.01.23-13.29.25:356][ 11]LogTemp: Warning: SM_Right
+[2018.01.23-13.29.25:356][ 11]LogTemp: Warning: R_Box
+[2018.01.23-13.29.25:356][ 11]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.01.23-13.29.25:359][ 11]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 3.296
+[2018.01.23-13.31.41:067][999]LogTemp: Repeating last play command: VR Preview
+[2018.01.23-13.31.41:082][999]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.23-13.31.41:082][999]PIE: New page: PIE session: NewMap (Jan 23, 2018, 5:31:41 PM)
+[2018.01.23-13.31.41:082][999]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.01.23-13.31.41:086][999]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003252s)
+[2018.01.23-13.31.41:086][999]LogAIModule: Creating AISystem for world NewMap
+[2018.01.23-13.31.41:087][999]LogPlayLevel: PIE: World Init took: (0.001065s)
+[2018.01.23-13.31.41:087][999]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.004872s)
+[2018.01.23-13.31.41:107][999]LogInit: XAudio2 using 'S27D590-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.23-13.31.41:115][999]LogInit: FAudioDevice initialized.
+[2018.01.23-13.31.41:198][999]LogLoad: Game class is 'TechDemoTest_C'
+[2018.01.23-13.31.41:199][999]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2018.01.23-15.31.41
+[2018.01.23-13.31.41:200][999]LogWorld: Bringing up level for play took: 0.000863
+[2018.01.23-13.31.41:200][999]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.01.23-13.31.41:200][999]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.01.23-13.31.41:200][999]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.01.23-13.31.41:202][999]LogTemp: Warning: Arrow
+[2018.01.23-13.31.41:202][999]LogTemp: Warning: CharacterMesh0
+[2018.01.23-13.31.41:202][999]LogTemp: Warning: Camera
+[2018.01.23-13.31.41:202][999]LogTemp: Warning: MC_Left
+[2018.01.23-13.31.41:202][999]LogTemp: Warning: MC_Right
+[2018.01.23-13.31.41:202][999]LogTemp: Warning: StaticMeshComponent
+[2018.01.23-13.31.41:202][999]LogTemp: Warning: DrawFrustumComponent
+[2018.01.23-13.31.41:202][999]LogTemp: Warning: SM_Left
+[2018.01.23-13.31.41:202][999]LogTemp: Warning: L_Box
+[2018.01.23-13.31.41:202][999]LogTemp: Warning: SM_Right
+[2018.01.23-13.31.41:202][999]LogTemp: Warning: R_Box
+[2018.01.23-13.31.41:202][999]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.01.23-13.31.41:206][999]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap -0.858
+[2018.01.23-13.32.46:519][679]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.32.46:523][680]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.32.46:528][681]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.32.46:534][682]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.32.46:538][683]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.32.46:542][684]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.32.46:546][685]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.32.52:106][238]LogTemp: Repeating last play command: VR Preview
+[2018.01.23-13.32.52:121][238]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.23-13.32.52:121][238]PIE: New page: PIE session: NewMap (Jan 23, 2018, 5:32:52 PM)
+[2018.01.23-13.32.52:121][238]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.01.23-13.32.52:124][238]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002731s)
+[2018.01.23-13.32.52:125][238]LogAIModule: Creating AISystem for world NewMap
+[2018.01.23-13.32.52:125][238]LogPlayLevel: PIE: World Init took: (0.000659s)
+[2018.01.23-13.32.52:125][238]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.004026s)
+[2018.01.23-13.32.52:149][238]LogInit: XAudio2 using 'S27D590-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.23-13.32.52:158][238]LogInit: FAudioDevice initialized.
+[2018.01.23-13.32.52:236][238]LogLoad: Game class is 'TechDemoTest_C'
+[2018.01.23-13.32.52:237][238]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2018.01.23-15.32.52
+[2018.01.23-13.32.52:237][238]LogWorld: Bringing up level for play took: 0.000714
+[2018.01.23-13.32.52:238][238]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.01.23-13.32.52:238][238]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.01.23-13.32.52:238][238]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.01.23-13.32.54:557][238]LogTemp: Warning: Arrow
+[2018.01.23-13.32.54:558][238]LogTemp: Warning: CharacterMesh0
+[2018.01.23-13.32.54:558][238]LogTemp: Warning: Camera
+[2018.01.23-13.32.54:558][238]LogTemp: Warning: MC_Left
+[2018.01.23-13.32.54:558][238]LogTemp: Warning: MC_Right
+[2018.01.23-13.32.54:558][238]LogTemp: Warning: StaticMeshComponent
+[2018.01.23-13.32.54:558][238]LogTemp: Warning: DrawFrustumComponent
+[2018.01.23-13.32.54:558][238]LogTemp: Warning: SM_Left
+[2018.01.23-13.32.54:559][238]LogTemp: Warning: L_Box
+[2018.01.23-13.32.54:559][238]LogTemp: Warning: SM_Right
+[2018.01.23-13.32.54:559][238]LogTemp: Warning: R_Box
+[2018.01.23-13.32.54:559][238]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.01.23-13.32.54:563][238]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 2.499
+[2018.01.23-13.33.08:621][898]LogTemp: Repeating last play command: VR Preview
+[2018.01.23-13.33.08:636][898]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.23-13.33.08:636][898]PIE: New page: PIE session: NewMap (Jan 23, 2018, 5:33:08 PM)
+[2018.01.23-13.33.08:636][898]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.01.23-13.33.08:639][898]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002568s)
+[2018.01.23-13.33.08:639][898]LogAIModule: Creating AISystem for world NewMap
+[2018.01.23-13.33.08:640][898]LogPlayLevel: PIE: World Init took: (0.000785s)
+[2018.01.23-13.33.08:640][898]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.003647s)
+[2018.01.23-13.33.08:662][898]LogInit: XAudio2 using 'S27D590-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.23-13.33.08:668][898]LogInit: FAudioDevice initialized.
+[2018.01.23-13.33.08:738][898]LogLoad: Game class is 'TechDemoTest_C'
+[2018.01.23-13.33.08:739][898]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2018.01.23-15.33.08
+[2018.01.23-13.33.08:740][898]LogWorld: Bringing up level for play took: 0.000755
+[2018.01.23-13.33.08:740][898]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.01.23-13.33.08:740][898]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.01.23-13.33.08:740][898]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.01.23-13.33.08:741][898]LogTemp: Warning: Arrow
+[2018.01.23-13.33.08:741][898]LogTemp: Warning: CharacterMesh0
+[2018.01.23-13.33.08:741][898]LogTemp: Warning: Camera
+[2018.01.23-13.33.08:741][898]LogTemp: Warning: MC_Left
+[2018.01.23-13.33.08:741][898]LogTemp: Warning: MC_Right
+[2018.01.23-13.33.08:741][898]LogTemp: Warning: StaticMeshComponent
+[2018.01.23-13.33.08:741][898]LogTemp: Warning: DrawFrustumComponent
+[2018.01.23-13.33.08:741][898]LogTemp: Warning: SM_Left
+[2018.01.23-13.33.08:741][898]LogTemp: Warning: L_Box
+[2018.01.23-13.33.08:741][898]LogTemp: Warning: SM_Right
+[2018.01.23-13.33.08:741][898]LogTemp: Warning: R_Box
+[2018.01.23-13.33.08:741][898]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.01.23-13.33.08:744][898]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.681
+[2018.01.23-13.33.33:538][ 97]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.33:541][ 98]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.33:544][ 99]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.33:546][100]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.33:549][101]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.33:553][102]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.33:557][103]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.33:559][104]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.33:562][105]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.33:565][106]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.33:567][107]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.33:571][108]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.33:575][109]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.33:577][110]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.33:580][111]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.33:583][112]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.33:586][113]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.33:589][114]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.33:592][115]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.33:596][116]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.33:598][117]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.33:601][118]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.33:605][119]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.33:607][120]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.33:610][121]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.33:614][122]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.33:617][123]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.33:620][124]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.33:623][125]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.33:625][126]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.33:628][127]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.33:631][128]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.33:635][129]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.33:638][130]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.33:640][131]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.33:643][132]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.33:646][133]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.33:649][134]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.33:652][135]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.33:655][136]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.33:658][137]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.33:661][138]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.33:663][139]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.33:666][140]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.33:669][141]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.33:672][142]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.33:675][143]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.33:678][144]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.33:681][145]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.33:684][146]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.33:687][147]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.33:690][148]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.33:694][149]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.33:697][150]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.33:700][151]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.33:702][152]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.33:705][153]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.33:707][154]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.33:710][155]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.33:714][156]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.44:571][784]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.44:572][784]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.44:575][785]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.44:578][786]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.44:581][787]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.44:584][788]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.44:587][789]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.44:591][790]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.44:595][791]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:035][829]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:039][830]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:043][831]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:046][832]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:049][833]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:054][834]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:058][835]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:061][836]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:065][837]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:069][838]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:075][839]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:079][840]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:083][841]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:087][842]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:093][843]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:097][844]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:101][845]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:105][846]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:109][847]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:114][848]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:118][849]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:122][850]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:126][851]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:130][852]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:135][853]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:139][854]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:143][855]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:148][856]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:153][857]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:157][858]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:161][859]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:165][860]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:169][861]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:173][862]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:177][863]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:180][864]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:184][865]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:188][866]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:192][867]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:196][868]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:200][869]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:205][870]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:208][871]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:214][872]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:218][873]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:222][874]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:225][875]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:228][876]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:233][877]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:237][878]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:241][879]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:244][880]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:248][881]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:251][882]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:255][883]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:259][884]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:263][885]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:266][886]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:271][887]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:277][888]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:281][889]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:285][890]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:290][891]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:295][892]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:300][893]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:305][894]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:311][895]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:316][896]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:321][897]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:326][898]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:329][899]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:333][900]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:337][901]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:340][902]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:343][903]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:346][904]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:350][905]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:355][906]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:359][907]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:362][908]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:365][909]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:370][910]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:376][911]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:380][912]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:383][913]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:387][914]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:391][915]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:395][916]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:398][917]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:402][918]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:405][919]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:408][920]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:412][921]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:416][922]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:420][923]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:423][924]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:426][925]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:431][926]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:435][927]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:438][928]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:441][929]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:445][930]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:448][931]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:452][932]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:456][933]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:460][934]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:463][935]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:467][936]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:471][937]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:476][938]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:480][939]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:483][940]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:487][941]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:491][942]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:495][943]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:498][944]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:501][945]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:505][946]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:508][947]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:512][948]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:516][949]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:519][950]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:522][951]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:525][952]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:529][953]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:533][954]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:537][955]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:540][956]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:543][957]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:546][958]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:549][959]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:553][960]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:557][961]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:560][962]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:563][963]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:566][964]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:569][965]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:573][966]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:577][967]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:580][968]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:583][969]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:587][970]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:590][971]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:594][972]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:598][973]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:601][974]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:605][975]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:608][976]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:611][977]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:615][978]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:618][979]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:622][980]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:625][981]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:629][982]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:632][983]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:636][984]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:640][985]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:643][986]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:647][987]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:649][988]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:654][989]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:658][990]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:661][991]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:664][992]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:667][993]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:671][994]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:675][995]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:678][996]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:681][997]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:685][998]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:688][999]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:693][  0]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:696][  1]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:700][  2]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:703][  3]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:707][  4]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:710][  5]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:714][  6]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:718][  7]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:721][  8]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:725][  9]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:728][ 10]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:733][ 11]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:737][ 12]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:740][ 13]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:743][ 14]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:746][ 15]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:750][ 16]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:754][ 17]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:758][ 18]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:761][ 19]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:764][ 20]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:767][ 21]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:771][ 22]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:775][ 23]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:779][ 24]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:782][ 25]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:785][ 26]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:789][ 27]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:793][ 28]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:796][ 29]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:799][ 30]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:803][ 31]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:807][ 32]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:810][ 33]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:815][ 34]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:819][ 35]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:822][ 36]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:826][ 37]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:829][ 38]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:833][ 39]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:837][ 40]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:840][ 41]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:844][ 42]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:847][ 43]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:851][ 44]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:855][ 45]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:858][ 46]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:861][ 47]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:865][ 48]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:868][ 49]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:872][ 50]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:876][ 51]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:879][ 52]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:883][ 53]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:886][ 54]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:890][ 55]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:894][ 56]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:897][ 57]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:900][ 58]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:904][ 59]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:907][ 60]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:910][ 61]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:915][ 62]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:918][ 63]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:922][ 64]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:925][ 65]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:928][ 66]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:932][ 67]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:937][ 68]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:940][ 69]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:944][ 70]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:948][ 71]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:952][ 72]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:956][ 73]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:960][ 74]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:964][ 75]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:968][ 76]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:972][ 77]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:976][ 78]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:980][ 79]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:983][ 80]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:987][ 81]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:991][ 82]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.45:996][ 83]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.46:001][ 84]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.46:006][ 85]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.46:009][ 86]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.46:014][ 87]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.46:017][ 88]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.46:021][ 89]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.46:024][ 90]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.46:027][ 91]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.46:030][ 92]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.46:035][ 93]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.46:040][ 94]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.46:043][ 95]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.46:047][ 96]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.46:050][ 97]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.46:054][ 98]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.46:057][ 99]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.46:060][100]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.46:064][101]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.46:067][102]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.46:071][103]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.46:075][104]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.46:078][105]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.46:081][106]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.46:085][107]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.46:089][108]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.46:094][109]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.46:098][110]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.46:102][111]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.46:106][112]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.47:463][235]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.47:467][236]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.47:467][236]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.47:471][237]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.47:476][238]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.47:479][239]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.47:483][240]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.47:487][241]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.47:493][242]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.47:498][243]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.47:503][244]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.47:507][245]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.47:513][246]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.47:517][247]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.48:570][344]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.48:571][344]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.48:575][345]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.48:579][346]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.48:582][347]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.48:586][348]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.48:590][349]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.48:594][350]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.48:598][351]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.48:602][352]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.48:606][353]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.48:609][354]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.48:614][355]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.48:617][356]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.48:621][357]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.48:624][358]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.33.48:627][359]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.01.23-13.34.06:107][890]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.34.06:386][891]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.34.06:719][892]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.34.07:054][893]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.34.07:386][894]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.34.07:720][895]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.34.08:054][896]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.34.08:386][897]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.34.23:054][941]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.34.23:386][942]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.34.23:719][943]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.34.24:053][944]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.34.24:386][945]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.37.13:844][ 64]Running C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="C:/Users/WIN 10/Desktop/TechDemo/TechDemo/TechDemo.uproject" -game -rocket -progress
+[2018.01.23-13.37.14:047][ 64]Discovering modules, targets and source code for project...
+[2018.01.23-13.37.16:056][ 64]LogSlate: Took 0.000113 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.23-13.37.20:887][316]UATHelper: Cooking (Windows): Running AutomationTool...
+[2018.01.23-13.37.20:963][325]UATHelper: Cooking (Windows): Parsing command line: BuildCookRun -nocompile -nocompileeditor -installed -nop4 -project="C:/Users/WIN 10/Desktop/TechDemo/TechDemo/TechDemo.uproject" -cook -skipstage -ue4exe=UE4Editor-Cmd.exe -targetplatform=Win64 -utf8output
+[2018.01.23-13.37.21:274][357]UATHelper: Cooking (Windows): Setting up ProjectParams for C:\Users\WIN 10\Desktop\TechDemo\TechDemo\TechDemo.uproject
+[2018.01.23-13.37.21:827][424]UATHelper: Cooking (Windows): ********** COOK COMMAND STARTED **********
+[2018.01.23-13.37.21:836][425]UATHelper: Cooking (Windows): Running UE4Editor Cook for project C:\Users\WIN 10\Desktop\TechDemo\TechDemo\TechDemo.uproject
+[2018.01.23-13.37.21:837][425]UATHelper: Cooking (Windows): Commandlet log file is C:\Program Files\Epic Games\UE_4.18\Engine\Programs\AutomationTool\Saved\Cook-2018.01.23-15.37.21.txt
+[2018.01.23-13.37.21:844][426]UATHelper: Cooking (Windows): Running: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\Win64\UE4Editor-Cmd.exe "C:\Users\WIN 10\Desktop\TechDemo\TechDemo\TechDemo.uproject" -run=Cook  -NoLogTimes -TargetPlatform=WindowsNoEditor -fileopenlog -unversioned -abslog="C:\Program Files\Epic Games\UE_4.18\Engine\Programs\AutomationTool\Saved\Cook-2018.01.23-15.37.21.txt" -stdout -CrashForUAT -unattended  -UTF8Output
+[2018.01.23-13.37.21:997][444]UATHelper: Cooking (Windows):   LogInit: Display: Running engine for game: TechDemo
+[2018.01.23-13.37.22:005][445]UATHelper: Cooking (Windows):   LogInit: Display: RandInit(710742115) SRandInit(710742115).
+[2018.01.23-13.37.22:999][563]UATHelper: Cooking (Windows):   LogModuleManager: Warning: Module file ../../../../../../Users/WIN 10/Desktop/TechDemo/TechDemo/Binaries/Win64/UE4Editor-TechDemo-1507.dll is missing. This is likely a stale module that must be recompiled.
+[2018.01.23-13.37.23:015][565]UATHelper: Cooking (Windows):   LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+[2018.01.23-13.37.23:022][566]UATHelper: Cooking (Windows):   LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+[2018.01.23-13.37.23:031][567]UATHelper: Cooking (Windows):   LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+[2018.01.23-13.37.23:048][569]UATHelper: Cooking (Windows):   LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+[2018.01.23-13.37.23:056][570]UATHelper: Cooking (Windows):   LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+[2018.01.23-13.37.23:074][572]UATHelper: Cooking (Windows):   LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+[2018.01.23-13.37.23:081][573]UATHelper: Cooking (Windows):   LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+[2018.01.23-13.37.23:090][574]UATHelper: Cooking (Windows):   LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+[2018.01.23-13.37.23:107][576]UATHelper: Cooking (Windows):   LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+[2018.01.23-13.37.23:115][577]UATHelper: Cooking (Windows):   LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+[2018.01.23-13.37.23:122][578]UATHelper: Cooking (Windows):   LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+[2018.01.23-13.37.23:139][580]UATHelper: Cooking (Windows):   LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+[2018.01.23-13.37.23:148][581]UATHelper: Cooking (Windows):   LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+[2018.01.23-13.37.23:165][583]UATHelper: Cooking (Windows):   LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+[2018.01.23-13.37.23:173][584]UATHelper: Cooking (Windows):   LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+[2018.01.23-13.37.23:181][585]UATHelper: Cooking (Windows):   LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+[2018.01.23-13.37.23:198][587]UATHelper: Cooking (Windows):   LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+[2018.01.23-13.37.23:205][588]UATHelper: Cooking (Windows):   LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+[2018.01.23-13.37.23:215][589]UATHelper: Cooking (Windows):   LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+[2018.01.23-13.37.23:233][591]UATHelper: Cooking (Windows):   LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+[2018.01.23-13.37.23:239][592]UATHelper: Cooking (Windows):   LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+[2018.01.23-13.37.23:248][593]UATHelper: Cooking (Windows):   LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+[2018.01.23-13.37.23:264][595]UATHelper: Cooking (Windows):   LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+[2018.01.23-13.37.23:273][596]UATHelper: Cooking (Windows):   LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+[2018.01.23-13.37.23:281][597]UATHelper: Cooking (Windows):   LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+[2018.01.23-13.37.23:289][598]UATHelper: Cooking (Windows):   LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+[2018.01.23-13.37.23:298][599]UATHelper: Cooking (Windows):   LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+[2018.01.23-13.37.23:315][601]UATHelper: Cooking (Windows):   LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+[2018.01.23-13.37.23:322][602]UATHelper: Cooking (Windows):   LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+[2018.01.23-13.37.23:331][603]UATHelper: Cooking (Windows):   LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+[2018.01.23-13.37.23:339][604]UATHelper: Cooking (Windows):   LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+[2018.01.23-13.37.23:357][606]UATHelper: Cooking (Windows):   LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+[2018.01.23-13.37.23:364][607]UATHelper: Cooking (Windows):   LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+[2018.01.23-13.37.23:373][608]UATHelper: Cooking (Windows):   LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+[2018.01.23-13.37.23:381][609]UATHelper: Cooking (Windows):   LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+[2018.01.23-13.37.23:397][611]UATHelper: Cooking (Windows):   LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+[2018.01.23-13.37.23:406][612]UATHelper: Cooking (Windows):   LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+[2018.01.23-13.37.23:415][613]UATHelper: Cooking (Windows):   LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+[2018.01.23-13.37.23:422][614]UATHelper: Cooking (Windows):   LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+[2018.01.23-13.37.23:433][615]UATHelper: Cooking (Windows):   LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+[2018.01.23-13.37.23:448][617]UATHelper: Cooking (Windows):   LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+[2018.01.23-13.37.23:457][618]UATHelper: Cooking (Windows):   LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+[2018.01.23-13.37.23:465][619]UATHelper: Cooking (Windows):   LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+[2018.01.23-13.37.23:481][621]UATHelper: Cooking (Windows):   LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+[2018.01.23-13.37.23:489][622]UATHelper: Cooking (Windows):   LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+[2018.01.23-13.37.23:499][623]UATHelper: Cooking (Windows):   LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+[2018.01.23-13.37.23:515][625]UATHelper: Cooking (Windows):   LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+[2018.01.23-13.37.23:523][626]UATHelper: Cooking (Windows):   LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+[2018.01.23-13.37.23:533][627]UATHelper: Cooking (Windows):   LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+[2018.01.23-13.37.23:549][629]UATHelper: Cooking (Windows):   LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+[2018.01.23-13.37.23:556][630]UATHelper: Cooking (Windows):   LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+[2018.01.23-13.37.23:574][632]UATHelper: Cooking (Windows):   LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+[2018.01.23-13.37.23:582][633]UATHelper: Cooking (Windows):   LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+[2018.01.23-13.37.23:598][635]UATHelper: Cooking (Windows):   LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+[2018.01.23-13.37.23:606][636]UATHelper: Cooking (Windows):   LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+[2018.01.23-13.37.23:615][637]UATHelper: Cooking (Windows):   LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+[2018.01.23-13.37.23:633][639]UATHelper: Cooking (Windows):   LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+[2018.01.23-13.37.23:640][640]UATHelper: Cooking (Windows):   LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+[2018.01.23-13.37.23:648][641]UATHelper: Cooking (Windows):   LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+[2018.01.23-13.37.23:657][642]UATHelper: Cooking (Windows):   LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+[2018.01.23-13.37.23:675][644]UATHelper: Cooking (Windows):   LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+[2018.01.23-13.37.23:683][645]UATHelper: Cooking (Windows):   LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+[2018.01.23-13.37.23:699][647]UATHelper: Cooking (Windows):   LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+[2018.01.23-13.37.23:707][648]UATHelper: Cooking (Windows):   LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+[2018.01.23-13.37.23:716][649]UATHelper: Cooking (Windows):   LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+[2018.01.23-13.37.23:732][651]UATHelper: Cooking (Windows):   LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+[2018.01.23-13.37.23:740][652]UATHelper: Cooking (Windows):   LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+[2018.01.23-13.37.23:749][653]UATHelper: Cooking (Windows):   LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+[2018.01.23-13.37.23:767][655]UATHelper: Cooking (Windows):   LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+[2018.01.23-13.37.23:775][656]UATHelper: Cooking (Windows):   LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+[2018.01.23-13.37.23:782][657]UATHelper: Cooking (Windows):   LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+[2018.01.23-13.37.23:799][659]UATHelper: Cooking (Windows):   LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+[2018.01.23-13.37.23:808][660]UATHelper: Cooking (Windows):   LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+[2018.01.23-13.37.23:808][660]UATHelper: Cooking (Windows):   LogInit: Warning: Incompatible or missing module: UE4Editor-TechDemo.dll
+[2018.01.23-13.37.23:901][671]UATHelper: Cooking (Windows): Took 2.062487s to run UE4Editor-Cmd.exe, ExitCode=1
+[2018.01.23-13.37.23:910][672]UATHelper: Cooking (Windows): Cook failed. Deleting cooked data.
+[2018.01.23-13.37.23:926][674]UATHelper: Cooking (Windows): ERROR: Cook failed.
+[2018.01.23-13.37.23:926][674]UATHelper: Cooking (Windows):        (see C:\Users\WIN 10\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_4.18\UAT_Log.txt for full exception trace)
+[2018.01.23-13.37.23:934][675]UATHelper: Cooking (Windows): AutomationTool exiting with ExitCode=25 (Error_UnknownCookFailure)
+[2018.01.23-13.37.23:969][679]UATHelper: Cooking (Windows): BUILD FAILED
+[2018.01.23-13.37.33:920][897]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.37.34:254][898]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.37.34:588][899]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.37.34:920][900]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.37.35:254][901]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.37.35:588][902]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.37.35:920][903]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.37.36:255][904]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.37.36:588][905]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.37.36:920][906]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.37.37:253][907]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.37.40:588][908]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.37.40:675][909]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.37.53:627][948]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.37.53:960][949]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.37.54:295][950]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.37.54:628][951]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.37.54:961][952]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.37.55:294][953]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.37.55:627][954]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.37.55:962][955]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.37.56:294][956]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.37.56:627][957]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.37.56:960][958]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.37.57:294][959]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.37.57:628][960]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.37.57:962][961]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.37.58:294][962]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.37.58:627][963]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.37.58:960][964]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.37.59:294][965]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.37.59:627][966]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.37.59:960][967]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.38.00:294][968]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.38.00:628][969]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.38.00:961][970]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.38.01:294][971]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.38.01:627][972]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.38.01:960][973]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.38.02:294][974]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.38.02:628][975]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.38.02:960][976]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.38.03:294][977]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.38.03:628][978]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.38.03:962][979]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.38.04:294][980]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.38.04:628][981]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.38.04:961][982]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.38.05:294][983]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.38.05:628][984]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.38.05:961][985]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.38.06:294][986]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.38.06:627][987]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.38.06:961][988]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.38.07:295][989]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.38.07:628][990]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.38.07:962][991]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.38.08:295][992]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.38.08:628][993]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.38.08:963][994]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.38.09:295][995]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.38.09:628][996]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.38.09:961][997]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.38.10:294][998]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.38.10:627][999]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.38.10:963][  0]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.38.11:296][  1]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.38.11:628][  2]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.38.11:961][  3]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.38.12:295][  4]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.38.12:628][  5]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.38.12:962][  6]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.38.13:295][  7]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.38.13:628][  8]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.38.13:961][  9]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.38.14:294][ 10]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.38.14:628][ 11]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.38.14:961][ 12]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.38.15:295][ 13]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.38.15:628][ 14]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.38.15:961][ 15]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.38.16:295][ 16]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.38.16:627][ 17]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.38.48:968][114]LogWindows: LaunchFileInExternalEditor C:/Users/WIN 10/Desktop/TechDemo/TechDemo/Source/TechDemo/Player1Test.h 
+[2018.01.23-13.38.49:056][114]LogWindows: Launch application code for C:/Users/WIN 10/Desktop/TechDemo/TechDemo/Source/TechDemo/Player1Test.h : 42
+[2018.01.23-13.38.49:056][114]LogWindows: LaunchFileInExternalEditor C:/Users/WIN 10/Desktop/TechDemo/TechDemo/Source/TechDemo/Player1Test.cpp 
+[2018.01.23-13.38.49:133][114]LogWindows: Launch application code for C:/Users/WIN 10/Desktop/TechDemo/TechDemo/Source/TechDemo/Player1Test.cpp : 42
+[2018.01.23-13.38.49:134][114]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2018.01.23-13.38.49:138][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.38.49:138][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.38.49:138][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.38.49:138][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.38.49:138][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.38.49:138][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.38.49:138][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.38.49:138][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.38.49:138][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.38.49:139][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.38.49:139][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.38.49:139][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.38.49:139][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.38.49:139][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.38.49:139][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.38.49:139][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.38.49:139][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.38.49:139][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.38.49:139][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.38.49:139][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.38.49:139][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.38.49:139][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.38.49:139][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.38.49:140][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.38.49:140][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.38.49:140][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.38.49:140][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.38.49:140][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.38.49:140][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.38.49:140][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.38.49:140][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.38.49:140][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.38.49:140][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.38.49:140][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.38.49:141][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.38.49:144][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.38.49:144][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.38.49:150][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.38.49:150][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.38.49:150][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.38.49:163][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.38.49:163][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.38.49:165][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.38.49:165][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.38.49:166][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.38.49:166][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.38.49:166][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.38.49:167][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.38.49:170][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.38.49:175][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.38.49:175][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.38.49:175][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.38.49:180][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.38.49:182][114]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.57.01:043][706]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.57.01:325][707]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.57.01:659][708]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.57.01:992][709]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.57.02:326][710]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.57.02:659][711]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.57.02:993][712]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.57.03:325][713]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.57.03:659][714]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.57.03:992][715]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.57.04:325][716]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.57.04:659][717]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.57.07:325][725]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.57.07:659][726]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.57.07:993][727]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.57.08:326][728]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.57.08:659][729]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.57.08:993][730]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.57.09:325][731]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.57.09:658][732]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.57.09:993][733]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.57.10:325][734]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.57.10:659][735]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.57.10:994][736]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.57.11:326][737]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.57.11:659][738]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.57.11:993][739]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.57.12:325][740]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.57.25:037][778]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.57.25:370][779]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.57.25:703][780]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.57.26:038][781]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.57.26:370][782]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.57.26:703][783]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.57.28:709][789]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.57.29:037][790]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.57.29:370][791]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.57.29:704][792]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.57.30:038][793]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.57.30:370][794]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.59.22:266][276]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.01.23-13.59.26:035][669]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.26:035][669]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.26:035][669]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.26:036][669]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.26:036][669]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.26:036][669]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.26:036][669]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.26:036][669]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.26:036][669]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.26:036][669]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.26:036][669]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.26:037][669]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.26:037][669]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.26:037][669]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.26:037][669]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.26:037][669]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.26:037][669]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.26:037][669]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.26:037][669]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.26:037][669]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.26:037][669]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.26:037][669]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.26:037][669]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.26:037][669]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.26:037][669]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.26:037][669]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.26:038][669]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.26:038][669]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.26:038][669]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.26:038][669]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.26:038][669]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.26:038][669]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.26:038][669]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.26:038][669]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.26:038][669]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.26:042][669]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.26:042][669]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.26:048][669]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.26:048][669]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.26:048][669]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.26:059][669]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.26:059][669]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.26:061][669]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.26:061][669]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.26:062][669]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.26:063][669]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.26:063][669]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.26:063][669]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.26:065][669]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.26:070][669]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.26:071][669]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.26:075][669]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.26:078][669]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.26:078][669]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.26:079][669]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.35:094][944]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.35:094][944]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.35:094][944]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.35:094][944]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.35:094][944]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.35:094][944]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.35:094][944]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.35:094][944]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.35:094][944]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.35:095][944]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.35:095][944]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.35:095][944]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.35:095][944]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.35:095][944]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.35:095][944]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.35:095][944]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.35:095][944]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.35:095][944]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.35:095][944]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.35:095][944]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.35:096][944]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.35:096][944]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.35:096][944]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.35:096][944]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.35:096][944]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.35:096][944]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.35:096][944]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.35:096][944]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.35:096][944]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.35:096][944]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.35:096][944]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.35:097][944]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.35:097][944]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.35:097][944]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.35:097][944]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.35:101][944]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.35:101][944]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.35:105][944]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.35:105][944]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.35:105][944]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.35:115][944]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.35:115][944]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.35:117][944]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.35:117][944]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.35:118][944]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.35:118][944]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.35:118][944]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.35:119][944]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.35:120][944]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.35:127][944]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.35:128][944]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.35:132][944]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.35:136][944]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.35:136][944]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.35:137][944]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.41:481][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.41:481][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.41:481][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.41:481][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.41:481][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.41:481][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.41:482][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.41:482][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.41:482][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.41:482][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.41:482][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.41:482][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.41:482][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.41:482][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.41:482][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.41:482][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.41:482][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.41:482][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.41:483][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.41:483][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.41:483][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.41:483][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.41:483][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.41:483][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.41:483][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.41:483][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.41:483][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.41:484][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.41:484][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.41:484][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.41:484][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.41:484][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.41:484][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.41:484][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.41:484][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.41:488][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.41:488][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.41:495][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.41:495][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.41:495][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.41:507][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.41:507][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.41:509][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.41:509][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.41:509][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.41:509][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.41:510][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.41:510][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.41:512][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.41:518][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.41:518][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.41:523][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.41:527][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.41:527][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.41:527][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.41:527][496]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.53:860][861]Running C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="C:/Users/WIN 10/Desktop/TechDemo/TechDemo/TechDemo.uproject" -game -rocket -progress
+[2018.01.23-13.59.54:063][861]Discovering modules, targets and source code for project...
+[2018.01.23-13.59.59:781][219]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.59:781][219]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.59:781][219]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.59:781][219]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.59:781][219]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.59:781][219]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.59:781][219]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.59:781][219]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.59:782][219]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.59:782][219]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.59:782][219]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.59:782][219]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.59:782][219]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.59:782][219]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.59:782][219]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.59:782][219]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.59:782][219]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.59:782][219]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.59:782][219]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.59:782][219]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.59:782][219]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.59:782][219]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.59:782][219]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.59:782][219]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.59:783][219]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.59:783][219]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.59:783][219]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.59:783][219]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.59:783][219]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.59:783][219]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.59:783][219]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.59:783][219]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.59:783][219]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.59:783][219]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.59:783][219]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.59:787][219]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.59:787][219]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.59:793][219]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.59:793][219]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.59:793][219]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.59:805][219]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.59:805][219]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.59:808][219]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.59:808][219]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.59:808][219]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.59:808][219]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.59:808][219]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.59:808][219]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.59:810][219]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.59:818][219]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.59:818][219]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.59:822][219]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.59:827][219]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.59:827][219]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.59:827][219]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-13.59.59:827][219]LogVSAccessor: Warning: Couldn't access module table
+[2018.01.23-14.00.39:179][456]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.01.23-14.00.39:330][457]Cmd: QUIT_EDITOR
+[2018.01.23-14.00.39:799][457]LogExit: Preparing to exit.
+[2018.01.23-14.00.40:154][457]LogDirectoryWatcher: A directory notification for 'C:/Users/WIN 10/Desktop/TechDemo/TechDemo/Content/' was aborted.
+[2018.01.23-14.00.40:163][457]LogExit: Editor shut down
+[2018.01.23-14.00.40:164][457]LogExit: Transaction tracking system shut down
+[2018.01.23-14.00.40:274][457]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.01.23-14.00.40:274][457]LogDirectoryWatcher: A directory notification for '../../../../../../Users/WIN 10/Desktop/TechDemo/TechDemo/Content/' was aborted.
+[2018.01.23-14.00.40:274][457]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.01.23-14.00.40:274][457]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.01.23-14.00.40:274][457]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.01.23-14.00.40:274][457]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.01.23-14.00.40:274][457]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.01.23-14.00.40:302][457]LogExit: Object subsystem successfully closed.
+[2018.01.23-14.00.40:319][457]LogD3D11RHI: Shutdown
+[2018.01.23-14.00.40:319][457]LogD3D11RHI: CleanupD3DDevice
+[2018.01.23-14.00.40:322][457]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.01.23-14.00.40:334][457]LogModuleManager: Shutting down and abandoning module UATHelper (557)
+[2018.01.23-14.00.40:334][457]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (555)
+[2018.01.23-14.00.40:334][457]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (553)
+[2018.01.23-14.00.40:334][457]LogModuleManager: Shutting down and abandoning module TechDemo (551)
+[2018.01.23-14.00.40:334][457]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (550)
+[2018.01.23-14.00.40:334][457]LogModuleManager: Shutting down and abandoning module DesktopPlatform (548)
+[2018.01.23-14.00.40:334][457]LogModuleManager: Shutting down and abandoning module SceneOutliner (546)
+[2018.01.23-14.00.40:334][457]LogModuleManager: Shutting down and abandoning module AddContentDialog (544)
+[2018.01.23-14.00.40:334][457]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2018.01.23-14.00.40:334][457]LogModuleManager: Shutting down and abandoning module WidgetCarousel (543)
+[2018.01.23-14.00.40:334][457]LogModuleManager: Shutting down and abandoning module EditorWidgets (540)
+[2018.01.23-14.00.40:334][457]LogModuleManager: Shutting down and abandoning module CollectionManager (538)
+[2018.01.23-14.00.40:334][457]LogDirectoryWatcher: A directory notification for 'C:/Users/WIN 10/Desktop/TechDemo/TechDemo/Content/Collections/' was aborted.
+[2018.01.23-14.00.40:334][457]LogDirectoryWatcher: A directory notification for 'C:/Users/WIN 10/Desktop/TechDemo/TechDemo/Content/Developers/WIN10/Collections/' was aborted.
+[2018.01.23-14.00.40:334][457]LogDirectoryWatcher: A directory notification for 'C:/Users/WIN 10/Desktop/TechDemo/TechDemo/Saved/Collections/' was aborted.
+[2018.01.23-14.00.40:334][457]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
+[2018.01.23-14.00.40:334][457]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2018.01.23-14.00.40:334][457]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2018.01.23-14.00.40:334][457]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2018.01.23-14.00.40:335][457]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2018.01.23-14.00.40:335][457]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2018.01.23-14.00.40:335][457]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2018.01.23-14.00.40:335][457]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2018.01.23-14.00.40:335][457]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2018.01.23-14.00.40:335][457]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2018.01.23-14.00.40:335][457]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2018.01.23-14.00.40:335][457]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2018.01.23-14.00.40:335][457]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2018.01.23-14.00.40:335][457]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2018.01.23-14.00.40:335][457]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2018.01.23-14.00.40:335][457]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2018.01.23-14.00.40:335][457]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2018.01.23-14.00.40:335][457]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2018.01.23-14.00.40:335][457]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2018.01.23-14.00.40:335][457]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2018.01.23-14.00.40:335][457]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2018.01.23-14.00.40:335][457]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2018.01.23-14.00.40:335][457]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2018.01.23-14.00.40:335][457]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2018.01.23-14.00.40:335][457]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2018.01.23-14.00.40:335][457]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2018.01.23-14.00.40:335][457]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2018.01.23-14.00.40:335][457]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2018.01.23-14.00.40:335][457]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2018.01.23-14.00.40:335][457]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2018.01.23-14.00.40:335][457]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2018.01.23-14.00.40:335][457]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2018.01.23-14.00.40:335][457]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2018.01.23-14.00.40:335][457]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2018.01.23-14.00.40:335][457]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2018.01.23-14.00.40:335][457]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2018.01.23-14.00.40:335][457]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2018.01.23-14.00.40:335][457]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2018.01.23-14.00.40:335][457]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2018.01.23-14.00.40:335][457]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2018.01.23-14.00.40:335][457]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2018.01.23-14.00.41:212][457]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2018.01.23-14.00.41:212][457]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2018.01.23-14.00.41:212][457]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2018.01.23-14.00.41:212][457]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2018.01.23-14.00.41:212][457]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2018.01.23-14.00.41:212][457]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2018.01.23-14.00.41:212][457]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2018.01.23-14.00.41:212][457]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2018.01.23-14.00.41:212][457]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2018.01.23-14.00.41:212][457]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2018.01.23-14.00.41:213][457]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2018.01.23-14.00.41:213][457]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2018.01.23-14.00.41:213][457]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2018.01.23-14.00.41:213][457]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2018.01.23-14.00.41:213][457]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2018.01.23-14.00.41:213][457]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2018.01.23-14.00.41:213][457]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2018.01.23-14.00.41:213][457]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2018.01.23-14.00.41:213][457]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2018.01.23-14.00.41:213][457]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2018.01.23-14.00.41:213][457]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2018.01.23-14.00.41:213][457]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2018.01.23-14.00.41:213][457]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2018.01.23-14.00.41:213][457]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2018.01.23-14.00.41:265][457]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2018.01.23-14.00.41:265][457]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2018.01.23-14.00.41:265][457]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2018.01.23-14.00.41:265][457]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2018.01.23-14.00.41:265][457]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2018.01.23-14.00.41:265][457]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2018.01.23-14.00.41:265][457]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2018.01.23-14.00.41:265][457]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2018.01.23-14.00.41:265][457]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2018.01.23-14.00.41:265][457]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2018.01.23-14.00.41:266][457]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2018.01.23-14.00.41:266][457]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2018.01.23-14.00.41:266][457]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2018.01.23-14.00.41:266][457]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2018.01.23-14.00.41:266][457]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2018.01.23-14.00.41:266][457]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2018.01.23-14.00.41:266][457]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2018.01.23-14.00.41:266][457]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2018.01.23-14.00.41:266][457]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2018.01.23-14.00.41:266][457]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2018.01.23-14.00.41:266][457]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2018.01.23-14.00.41:266][457]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2018.01.23-14.00.41:266][457]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2018.01.23-14.00.41:266][457]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2018.01.23-14.00.41:266][457]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2018.01.23-14.00.41:266][457]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2018.01.23-14.00.41:266][457]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2018.01.23-14.00.41:266][457]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2018.01.23-14.00.41:266][457]LogModuleManager: Shutting down and abandoning module ProfilerService (350)
+[2018.01.23-14.00.41:355][457]LogModuleManager: Shutting down and abandoning module TaskGraph (348)
+[2018.01.23-14.00.41:355][457]LogModuleManager: Shutting down and abandoning module SteamVRController (346)
+[2018.01.23-14.00.41:355][457]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (344)
+[2018.01.23-14.00.41:355][457]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (342)
+[2018.01.23-14.00.41:355][457]LogModuleManager: Shutting down and abandoning module OculusInput (340)
+[2018.01.23-14.00.41:355][457]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (338)
+[2018.01.23-14.00.41:355][457]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (336)
+[2018.01.23-14.00.41:355][457]LogModuleManager: Shutting down and abandoning module CableComponent (334)
+[2018.01.23-14.00.41:355][457]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (332)
+[2018.01.23-14.00.41:355][457]LogModuleManager: Shutting down and abandoning module AndroidPermission (330)
+[2018.01.23-14.00.41:355][457]LogModuleManager: Shutting down and abandoning module ActorSequence (326)
+[2018.01.23-14.00.41:355][457]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (324)
+[2018.01.23-14.00.41:355][457]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (322)
+[2018.01.23-14.00.41:355][457]LogModuleManager: Shutting down and abandoning module MediaCompositing (320)
+[2018.01.23-14.00.41:355][457]LogModuleManager: Shutting down and abandoning module HTML5Networking (318)
+[2018.01.23-14.00.41:355][457]LogModuleManager: Shutting down and abandoning module AlembicImporter (316)
+[2018.01.23-14.00.41:355][457]LogModuleManager: Shutting down and abandoning module AlembicLibrary (315)
+[2018.01.23-14.00.41:355][457]LogModuleManager: Shutting down and abandoning module GeometryCache (314)
+[2018.01.23-14.00.41:355][457]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (313)
+[2018.01.23-14.00.41:355][457]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (308)
+[2018.01.23-14.00.41:355][457]LogModuleManager: Shutting down and abandoning module PluginBrowser (306)
+[2018.01.23-14.00.41:355][457]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (304)
+[2018.01.23-14.00.41:355][457]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (302)
+[2018.01.23-14.00.41:355][457]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (300)
+[2018.01.23-14.00.41:356][457]LogModuleManager: Shutting down and abandoning module UObjectPlugin (298)
+[2018.01.23-14.00.41:356][457]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (296)
+[2018.01.23-14.00.41:356][457]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (294)
+[2018.01.23-14.00.41:356][457]LogModuleManager: Shutting down and abandoning module GitSourceControl (292)
+[2018.01.23-14.00.41:356][457]LogModuleManager: Shutting down and abandoning module SourceControl (291)
+[2018.01.23-14.00.41:356][457]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (288)
+[2018.01.23-14.00.41:356][457]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (286)
+[2018.01.23-14.00.41:356][457]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (284)
+[2018.01.23-14.00.41:356][457]LogModuleManager: Shutting down and abandoning module Paper2DEditor (282)
+[2018.01.23-14.00.41:356][457]LogModuleManager: Shutting down and abandoning module MeshPaint (281)
+[2018.01.23-14.00.41:356][457]LogModuleManager: Shutting down and abandoning module LevelEditor (279)
+[2018.01.23-14.00.41:356][457]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (278)
+[2018.01.23-14.00.41:356][457]LogModuleManager: Shutting down and abandoning module MainFrame (276)
+[2018.01.23-14.00.41:356][457]LogModuleManager: Shutting down and abandoning module HotReload (275)
+[2018.01.23-14.00.41:356][457]LogDirectoryWatcher: A directory notification for 'C:/Users/WIN 10/Desktop/TechDemo/TechDemo/Binaries/Win64' was aborted.
+[2018.01.23-14.00.41:357][457]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2018.01.23-14.00.41:357][457]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2018.01.23-14.00.41:357][457]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2018.01.23-14.00.41:357][457]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2018.01.23-14.00.41:357][457]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2018.01.23-14.00.41:357][457]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2018.01.23-14.00.41:357][457]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2018.01.23-14.00.41:357][457]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2018.01.23-14.00.41:457][457]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2018.01.23-14.00.41:558][457]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2018.01.23-14.00.41:558][457]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2018.01.23-14.00.41:558][457]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2018.01.23-14.00.41:558][457]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2018.01.23-14.00.41:558][457]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2018.01.23-14.00.41:558][457]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2018.01.23-14.00.41:558][457]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2018.01.23-14.00.41:558][457]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2018.01.23-14.00.41:558][457]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2018.01.23-14.00.41:558][457]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2018.01.23-14.00.41:559][457]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2018.01.23-14.00.41:559][457]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2018.01.23-14.00.41:559][457]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2018.01.23-14.00.41:559][457]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2018.01.23-14.00.41:559][457]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2018.01.23-14.00.41:559][457]LogModuleManager: Shutting down and abandoning module Media (221)
+[2018.01.23-14.00.41:565][457]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2018.01.23-14.00.41:565][457]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2018.01.23-14.00.41:565][457]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2018.01.23-14.00.41:565][457]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2018.01.23-14.00.41:565][457]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2018.01.23-14.00.41:565][457]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2018.01.23-14.00.41:565][457]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2018.01.23-14.00.41:565][457]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2018.01.23-14.00.41:565][457]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2018.01.23-14.00.41:565][457]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2018.01.23-14.00.41:565][457]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2018.01.23-14.00.41:565][457]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2018.01.23-14.00.41:565][457]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2018.01.23-14.00.41:565][457]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2018.01.23-14.00.41:565][457]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2018.01.23-14.00.41:565][457]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2018.01.23-14.00.41:567][457]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2018.01.23-14.00.41:567][457]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2018.01.23-14.00.41:567][457]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2018.01.23-14.00.41:567][457]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2018.01.23-14.00.41:567][457]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2018.01.23-14.00.41:567][457]LogModuleManager: Shutting down and abandoning module Core (172)
+[2018.01.23-14.00.41:567][457]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2018.01.23-14.00.41:567][457]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2018.01.23-14.00.41:567][457]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.01.23-14.00.41:567][457]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2018.01.23-14.00.41:567][457]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2018.01.23-14.00.41:567][457]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2018.01.23-14.00.41:567][457]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2018.01.23-14.00.41:567][457]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2018.01.23-14.00.41:567][457]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2018.01.23-14.00.41:567][457]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2018.01.23-14.00.41:567][457]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2018.01.23-14.00.41:594][457]LogDerivedDataCache: Shutdown
+[2018.01.23-14.00.41:595][457]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2018.01.23-14.00.41:595][457]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2018.01.23-14.00.41:595][457]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2018.01.23-14.00.41:595][457]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2018.01.23-14.00.41:595][457]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2018.01.23-14.00.41:595][457]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2018.01.23-14.00.41:595][457]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2018.01.23-14.00.41:595][457]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2018.01.23-14.00.41:595][457]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2018.01.23-14.00.41:595][457]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2018.01.23-14.00.41:595][457]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2018.01.23-14.00.41:595][457]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2018.01.23-14.00.41:595][457]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2018.01.23-14.00.41:595][457]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2018.01.23-14.00.41:595][457]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2018.01.23-14.00.41:595][457]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2018.01.23-14.00.41:595][457]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2018.01.23-14.00.41:595][457]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2018.01.23-14.00.41:595][457]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2018.01.23-14.00.41:595][457]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2018.01.23-14.00.41:595][457]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2018.01.23-14.00.41:595][457]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2018.01.23-14.00.41:595][457]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2018.01.23-14.00.41:595][457]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2018.01.23-14.00.41:595][457]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2018.01.23-14.00.41:595][457]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2018.01.23-14.00.41:595][457]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2018.01.23-14.00.41:595][457]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2018.01.23-14.00.41:595][457]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2018.01.23-14.00.41:595][457]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2018.01.23-14.00.41:595][457]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2018.01.23-14.00.41:595][457]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2018.01.23-14.00.41:595][457]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2018.01.23-14.00.41:595][457]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2018.01.23-14.00.41:595][457]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2018.01.23-14.00.41:595][457]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2018.01.23-14.00.41:595][457]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2018.01.23-14.00.41:595][457]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2018.01.23-14.00.41:595][457]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2018.01.23-14.00.41:595][457]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2018.01.23-14.00.41:595][457]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2018.01.23-14.00.41:595][457]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2018.01.23-14.00.41:595][457]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2018.01.23-14.00.41:595][457]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2018.01.23-14.00.41:595][457]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2018.01.23-14.00.41:595][457]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2018.01.23-14.00.41:595][457]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2018.01.23-14.00.41:595][457]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2018.01.23-14.00.41:595][457]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.01.23-14.00.41:595][457]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.01.23-14.00.41:595][457]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.01.23-14.00.41:595][457]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.01.23-14.00.41:595][457]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.01.23-14.00.41:595][457]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.01.23-14.00.41:595][457]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B48373767-4EF1-6951-75B2-EDBF9667BBDD%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=014b875149afdbfc689712b49e363672%7Caf4cf2b1072a460d8575291530f4bb99%7Cf73e61e6-ab17-4802-9d04-972df57db628&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.01.23-14.00.41:609][457]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.01.23-14.00.41:609][457]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.01.23-14.00.41:609][457]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.01.23-14.00.41:609][457]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.01.23-14.00.41:609][457]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.01.23-14.00.41:610][457]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.01.23-14.00.41:610][457]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.01.23-14.00.41:610][457]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.01.23-14.00.41:610][457]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.01.23-14.00.41:610][457]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.01.23-14.00.41:610][457]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.01.23-14.00.41:610][457]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.01.23-14.00.41:610][457]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.01.23-14.00.41:610][457]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.01.23-14.00.41:610][457]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.01.23-14.00.41:610][457]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.01.23-14.00.41:610][457]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.01.23-14.00.41:610][457]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.01.23-14.00.41:610][457]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.01.23-14.00.41:614][457]LogExit: Exiting.
+[2018.01.23-14.00.41:627][457]Log file closed, 01/23/18 16:00:41

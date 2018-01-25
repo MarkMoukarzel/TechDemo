@@ -20,7 +20,7 @@ void APlayer1Test::BeginPlay()
 	Super::BeginPlay();
 	TArray<USceneComponent*> test;
 	RootComponent->GetChildrenComponents(true,test);
-	
+	 
 	for (int i = 0; i < test.Num(); i++) 
 	{
 		USceneComponent* sceneComp = test[i];
@@ -34,7 +34,6 @@ void APlayer1Test::BeginPlay()
 void APlayer1Test::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
-
 }
 
 // Called to bind functionality to input
@@ -50,12 +49,10 @@ void APlayer1Test::SetupPlayerInputComponent(UInputComponent* PlayerInputCompone
 
 void APlayer1Test::MoveForward(float DeltaTime)
 {
-
 	if (DeltaTime != 0)
 	{
 		AddMovementInput(GetActorForwardVector(), DeltaTime);
 		UE_LOG(LogTemp, Warning, TEXT("forward activated"));
-
 	}
 }
 

@@ -4,7 +4,7 @@
 	<ItemGroup>
 		<None Include="..\..\TechDemo.uproject" />
 		<Filter Include="Source">
-			<UniqueIdentifier>{9C2E9481-92C8-48E9-9418-B22AFD39D3F9}</UniqueIdentifier>
+			<UniqueIdentifier>{73C5E1D1-59BF-4FD9-9CBF-B267E36841EA}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Source\TechDemo.Target.cs">
 			<Filter>Source</Filter>
@@ -13,7 +13,7 @@
 			<Filter>Source</Filter>
 		</None >
 		<Filter Include="Config">
-			<UniqueIdentifier>{8F6B12ED-886C-4E77-AF18-1BF99C0F89E6}</UniqueIdentifier>
+			<UniqueIdentifier>{59A88F6F-1AD9-4E44-9704-302F185A1BA2}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Config\DefaultEditor.ini">
 			<Filter>Config</Filter>
@@ -28,8 +28,14 @@
 			<Filter>Config</Filter>
 		</None >
 		<Filter Include="Source\TechDemo">
-			<UniqueIdentifier>{DD958A39-6ADD-41F0-94F2-A0FC7DF87603}</UniqueIdentifier>
+			<UniqueIdentifier>{56514DA5-B363-4972-AB2F-E22D26B692DF}</UniqueIdentifier>
 		</Filter>
+		<ClCompile Include="..\..\Source\TechDemo\HandSwingMove.cpp">
+			<Filter>Source\TechDemo</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\TechDemo\HandSwingMove.h">
+			<Filter>Source\TechDemo</Filter>
+		</ClInclude >
 		<ClCompile Include="..\..\Source\TechDemo\MyPlayerController.cpp">
 			<Filter>Source\TechDemo</Filter>
 		</ClCompile >
@@ -58,25 +64,25 @@
 			<Filter>Source\TechDemo</Filter>
 		</ClInclude >
 		<Filter Include="Source\TechDemo\Controls">
-			<UniqueIdentifier>{F564138F-009D-4D6F-A977-2A81527AD613}</UniqueIdentifier>
+			<UniqueIdentifier>{3DA866C7-DBCC-4FAA-9C53-94930D5C3A3E}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Source\TechDemo\Controls\CoreGameDescription.txt">
 			<Filter>Source\TechDemo\Controls</Filter>
 		</None >
 		<Filter Include="Source\TechDemo\CoreGame">
-			<UniqueIdentifier>{0F7F195A-1A6B-4FF4-9885-A3AD4E433298}</UniqueIdentifier>
+			<UniqueIdentifier>{B7AA2A6A-98FC-4AD3-8193-05E655AE902E}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Source\TechDemo\CoreGame\CoreGameDescription.txt">
 			<Filter>Source\TechDemo\CoreGame</Filter>
 		</None >
 		<Filter Include="Source\TechDemo\GameLogic">
-			<UniqueIdentifier>{49AE7A04-40AC-4355-BD0F-498760840E97}</UniqueIdentifier>
+			<UniqueIdentifier>{6C5EFC47-917D-4411-AFE2-B831D089FF46}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Source\TechDemo\GameLogic\CoreGameDescription.txt">
 			<Filter>Source\TechDemo\GameLogic</Filter>
 		</None >
 		<Filter Include="Source\TechDemo\HUD">
-			<UniqueIdentifier>{69B46EF3-8B01-4369-BCF6-BAA1A55A4082}</UniqueIdentifier>
+			<UniqueIdentifier>{7E715C0E-ADD5-4D93-A0B0-33467863DB5A}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Source\TechDemo\HUD\CoreGameDescription.txt">
 			<Filter>Source\TechDemo\HUD</Filter>

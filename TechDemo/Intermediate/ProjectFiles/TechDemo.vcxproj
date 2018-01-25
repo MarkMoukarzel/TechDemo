@@ -414,6 +414,8 @@
 		<None Include="..\..\Config\DefaultEngine.ini" />
 		<None Include="..\..\Config\DefaultGame.ini" />
 		<None Include="..\..\Config\DefaultInput.ini" />
+		<ClCompile Include="..\..\Source\TechDemo\HandSwingMove.cpp" />
+		<ClInclude Include="..\..\Source\TechDemo\HandSwingMove.h" />
 		<ClCompile Include="..\..\Source\TechDemo\MyPlayerController.cpp" />
 		<ClInclude Include="..\..\Source\TechDemo\MyPlayerController.h" />
 		<ClCompile Include="..\..\Source\TechDemo\Player1Test.cpp" />

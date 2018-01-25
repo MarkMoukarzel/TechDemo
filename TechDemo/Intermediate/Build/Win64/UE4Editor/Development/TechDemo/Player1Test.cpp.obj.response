@@ -24,9 +24,9 @@
 /wd4838
 /w44668
 /I "C:\Program Files\Epic Games\UE_4.18\Engine\Source"
-/I "C:\Users\WIN 10\Desktop\TechDemo\TechDemo\Source"
-/I "C:\Users\WIN 10\Desktop\TechDemo\TechDemo\Intermediate\Build\Win64\UE4Editor\Inc\TechDemo"
-/I "C:\Users\WIN 10\Desktop\TechDemo\TechDemo\Source\TechDemo"
+/I C:\Users\DrDoz\Desktop\TechDemo\TechDemo\Source
+/I C:\Users\DrDoz\Desktop\TechDemo\TechDemo\Intermediate\Build\Win64\UE4Editor\Inc\TechDemo
+/I C:\Users\DrDoz\Desktop\TechDemo\TechDemo\Source\TechDemo
 /I "C:\Program Files\Epic Games\UE_4.18\Engine\Source\Runtime\Core\Public"
 /I "C:\Program Files\Epic Games\UE_4.18\Engine\Source\Runtime\Core\Public\Internationalization"
 /I "C:\Program Files\Epic Games\UE_4.18\Engine\Source\Runtime\Core\Public\Async"
@@ -359,9 +359,9 @@
 /FI"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h"
 /Yu"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h"
 /Fp"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.pch"
-"C:\Users\WIN 10\Desktop\TechDemo\TechDemo\Source\TechDemo\Player1Test.cpp"
-/FI"C:\Users\WIN 10\Desktop\TechDemo\TechDemo\Intermediate\Build\Win64\UE4Editor\Development\TechDemo\Definitions.TechDemo.h"
-/Fo"C:\Users\WIN 10\Desktop\TechDemo\TechDemo\Intermediate\Build\Win64\UE4Editor\Development\TechDemo\Player1Test.cpp.obj"
+"C:\Users\DrDoz\Desktop\TechDemo\TechDemo\Source\TechDemo\Player1Test.cpp"
+/FI"C:\Users\DrDoz\Desktop\TechDemo\TechDemo\Intermediate\Build\Win64\UE4Editor\Development\TechDemo\Definitions.TechDemo.h"
+/Fo"C:\Users\DrDoz\Desktop\TechDemo\TechDemo\Intermediate\Build\Win64\UE4Editor\Development\TechDemo\Player1Test.cpp.obj"
 /TP
 /GR-
 /W4

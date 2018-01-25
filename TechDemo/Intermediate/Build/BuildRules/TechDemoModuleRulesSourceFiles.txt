@@ -1,3 +1,3 @@
-C:\Users\WIN 10\Desktop\TechDemo\TechDemo\Source\TechDemo\TechDemo.Build.cs
-C:\Users\WIN 10\Desktop\TechDemo\TechDemo\Source\TechDemo.Target.cs
-C:\Users\WIN 10\Desktop\TechDemo\TechDemo\Source\TechDemoEditor.Target.cs
+C:\Users\DrDoz\Desktop\TechDemo\TechDemo\Source\TechDemo\TechDemo.Build.cs
+C:\Users\DrDoz\Desktop\TechDemo\TechDemo\Source\TechDemo.Target.cs
+C:\Users\DrDoz\Desktop\TechDemo\TechDemo\Source\TechDemoEditor.Target.cs
